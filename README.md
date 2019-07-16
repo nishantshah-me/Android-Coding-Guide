@@ -1,5 +1,3 @@
-# Android-Coding-Guide
-
 # 1. Project guidelines
 
 ## 1.1 Project structure
